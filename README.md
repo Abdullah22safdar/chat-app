@@ -3,7 +3,7 @@
 
 
 # Technologies, Libraries And Stack Used
--> React js (custom hooks, context, portals)\
+-> React js \
 -> React Router\
 -> Socket.io\
 -> Node js
